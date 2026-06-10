@@ -18,13 +18,15 @@ Proyek ini mengimplementasikan sistem temu kembali informasi (STKI) berbasis *co
 - **Korpus Pencarian:** Penggabungan kolom `book_title`, `book_authors`, `genres`, dan `book_desc` untuk memperkaya sinyal relevansi multi-field.
 
 ## 📂 Struktur Direktori
+```
 BooksSearch/
 ├── data/
-│ ├── raw/ # Dataset mentah (book_data.csv)
-│ ├── processed/ # Hasil preprocessing (cleaned_corpus.csv)
-│ └── ground_truth.json # 10 query uji beserta label relevansi manual
-├── main.ipynb # Notebook utama (pipeline lengkap)
-└── README.md # Dokumentasi proyek
+│   ├── raw/                 # Dataset mentah (book_data.csv)
+│   ├── processed/           # Hasil preprocessing (cleaned_corpus.csv)
+│   └── ground_truth.json    # 10 query uji beserta label relevansi manual
+├── main.ipynb               # Notebook utama (pipeline lengkap)
+└── README.md                # Dokumentasi proyek
+```
 
 
 ## 🚀 Cara Menjalankan Sistem
