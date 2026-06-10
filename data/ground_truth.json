@@ -1,0 +1,94 @@
+{
+  "queries": [
+    {
+      "id": "Q1",
+      "text": "fantasy magic wizard coming of age",
+      "relevant_docs": [
+        "The Wizard of Dark Street",
+        "With a Single Spell",
+        "The Magic Thief"
+      ]
+    },
+    {
+      "id": "Q2",
+      "text": "romance historical england marriage",
+      "relevant_docs": [
+        "Sovay",
+        "Virgin Widow: England's Forgotten Queen",
+        "The Secret History of the Pink Carnation"
+      ]
+    },
+    {
+      "id": "Q3",
+      "text": "science fiction space exploration future",
+      "relevant_docs": [
+        "The Skylark of Space",
+        "Pirate Sun",
+        "Master of Space and Time"
+      ]
+    },
+    {
+      "id": "Q4",
+      "text": "mystery detective crime investigation",
+      "relevant_docs": [
+        "The Further Adventures of Sherlock Holmes: The Veiled Detective",
+        "Cop Hater",
+        "The Suspicions of Mr. Whicher: A Shocking Murder and the Undoing of a Great Victorian Detective"
+      ]
+    },
+    {
+      "id": "Q5",
+      "text": "biography memoir real life story",
+      "relevant_docs": [
+        "Whip Smart: A Memoir",
+        "A Paper Life",
+        "Autobiography of a Face"
+      ]
+    },
+    {
+      "id": "Q6",
+      "text": "thriller psychological suspense twist",
+      "relevant_docs": [
+        "Under Your Skin",
+        "No Longer Safe",
+        "Good Me, Bad Me"
+      ]
+    },
+    {
+      "id": "Q7",
+      "text": "young adult school friendship growth",
+      "relevant_docs": [
+        "Superhero",
+        "Sophie & Carter",
+        "Why The Whales Came"
+      ]
+    },
+    {
+      "id": "Q8",
+      "text": "horror supernatural ghost haunted",
+      "relevant_docs": [
+        "The Haunted Dolls' House and Other Ghost Stories",
+        "Best Ghost Stories of Algernon Blackwood",
+        "All the Lovely Bad Ones"
+      ]
+    },
+    {
+      "id": "Q9",
+      "text": "self help productivity habit success",
+      "relevant_docs": [
+        "Getting Things Done: The Art of Stress-Free Productivity",
+        "The One Minute Manager",
+        "The Power of Habit: Why We Do What We Do in Life and Business"
+      ]
+    },
+    {
+      "id": "Q10",
+      "text": "classic literature poetry philosophy",
+      "relevant_docs": [
+        "The Poetry of Allama Iqbal",
+        "The Complete Poems of Emily Bronte [with Biographical Introduction]",
+        "The Homeric Hymns"
+      ]
+    }
+  ]
+}
