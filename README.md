@@ -1,6 +1,5 @@
 # Goodreads Book Search Engine
 **Mata Kuliah:** Temu Kembali Informasi (COM620321) | **Universitas Lampung** | **Periode:** 2025/2026 Genap  
-**Developer:** [Nama Anda] | **NIM:** [NIM Anda]
 
 ## 📖 Deskripsi Proyek
 Proyek ini mengimplementasikan sistem temu kembali informasi (STKI) berbasis *command line interface* (CLI) untuk pencarian buku menggunakan dataset Goodreads. Sistem dirancang untuk mendemonstrasikan alur kerja STKi secara lengkap: mulai dari preprocessing teks, indexing dokumen berbasis model probabilistik, perhitungan skor relevansi, hingga evaluasi performa menggunakan metrik standar IR.
